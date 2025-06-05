@@ -8,9 +8,7 @@
   <li>🎓 Learning cloud services and DevOps tools</li>
 </ul>
 
-
-📫 How to reach me: <br />
-
+<h3 align="left">📫 How to reach me:</h3>
 <a href="mailto:rajatkhurana53@gmail.com" target="blank">
 <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40" /></a>
 <a href="https://linkedin.com/in/rajatkhurana08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajatkhurana08/" height="30" width="40" /></a>
