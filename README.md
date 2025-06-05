@@ -5,7 +5,7 @@
 <ul>
   <li>💻 Skilled in front-end and back-end technologies including JavaScript, React, Node.js, and databases</li>
   <li>🚀 Currently working on building scalable web applications</li>
-  <li>🎓 Continuously learning cloud services and DevOps tools</li>
+  <li>🎓 Learning cloud services and DevOps tools</li>
 </ul>
 
 
