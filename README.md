@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RAJAT KHURANA</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatkhurana08&label=Profile%20views&color=0e75b6&style=flat" alt="rajatkhurana08" /> </p> <a href="https://github.com/rajatkhurana08"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/rajatkhurana08?style=social&logo=github&logoSize=auto"> </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatkhurana08&label=Profile%20views&color=0e75b6&style=flat" alt="rajatkhurana08"/></p>
 
 
 
