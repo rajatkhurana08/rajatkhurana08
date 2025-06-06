@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm RAJAT KHURANA</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatkhurana08&label=Profile%20views&color=0e75b6&style=flat" alt="rajatkhurana08" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatkhurana08&label=Profile%20views&color=0e75b6&style=flat" alt="rajatkhurana08" /> </p> <a href="https://github.com/rajatkhurana08"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/rajatkhurana08?style=social&logo=github&logoSize=auto"> </a>
+
 
 
 
@@ -14,7 +15,7 @@
 <a href="mailto:rajatkhurana53@gmail.com" target="blank">
 <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40" /></a>
 <a href="https://linkedin.com/in/rajatkhurana08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajatkhurana08/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/rajatkhurana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rajatkhurana/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/rajatkhurana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rajatkhurana/" height="30" width="40" /></a>
 <a href="https://medium.com/@rajatkhurana53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rajatkhurana53" width="40" /></a>
 
 
