@@ -32,9 +32,32 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![Codewars](https://img.shields.io/badge/Codewars-Profile-red?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/rajatkhurana)
 ![Codewars](https://www.codewars.com/users/rajatkhurana/badges/large?theme=light)
 
+## 🚀 Projects Showcase
+
+### HTML, CSS & JavaScript Project
+
+| Project | Description | Tech Stack | Repository |
+|----------|--------------|-------------|-------------|
+| **Calculator** | A simple, interactive calculator built with vanilla JS. | HTML • CSS • JavaScript | [🔗 View Repo](https://github.com/rajatkhurana08/Calculator) |
+| **Stopwatch** | Stopwatch web app with start, stop, and reset functions. | HTML • CSS • JavaScript | [🔗 View Repo](https://github.com/rajatkhurana08/Stopwatch) |
+| **Interactive Form Validation** | Validates user input in real time using regex and DOM manipulation. | HTML • CSS • JavaScript | [🔗 View Repo](https://github.com/rajatkhurana08/Interactive-Form-Validation) |
+| **Interactive Quiz App** | Engaging quiz app with dynamic questions and score tracking. | HTML • CSS • JavaScript | [🔗 View Repo](https://github.com/rajatkhurana08/Interactive-Quiz-App) |
+| **Budget Tracker** | App for tracking expenses, income, and remaining balance. | HTML • CSS • JavaScript | [🔗 View Repo](https://github.com/rajatkhurana08/Budget-Tracker) |
+| **Weather API App** | Displays real-time weather data using an external API. | HTML • CSS • JavaScript • OpenWeather API | [🔗 View Repo](https://github.com/rajatkhurana08/Weather-API-App) |
+| **Recipe Finder using API** | Fetches and displays recipes based on ingredients via API. | HTML • CSS • JavaScript • Edamam API | [🔗 View Repo](https://github.com/rajatkhurana08/Recipe-Finder-Using-API) |
+| **Rock Paper Scissors Game** | Fun browser-based game against the computer. | HTML • CSS • JavaScript | [🔗 View Repo](https://github.com/rajatkhurana08/Rock-Paper-Scissors-Game) |
+| **Todo App** | Simple to-do list app to add, delete, and track tasks. | HTML • CSS • JavaScript | [🔗 View Repo](https://github.com/rajatkhurana08/Todo-App) |
 
 
-### Socials
+### Python Projects
+
+| Project | Description | Tech Stack | Repository |
+|----------|--------------|-------------|-------------|
+| **Disease Prediction Using Machine Learning** | Predicts diseases using trained ML models and patient data. | Python • scikit-learn • pandas | [🔗 View Repo](https://github.com/rajatkhurana08/Disease-Prediction-Using-Machine-Learning-and-Python) |
+| **Password Generator** | Generates strong, random passwords based on user preferences. | Python | [🔗 View Repo](https://github.com/rajatkhurana08/Password-Generator) |
+
+
+### 🌎 Socials
 
 <p align="left"> <a href="https://www.github.com/rajatkhurana08" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.dev.to/rajatkhurana" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV" title="DEV" /> </picture> </a> <a href="https://www.linkedin.com/in/rajatkhurana08/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.codepen.io/Rajat-Khurana" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" alt="CodePen" title="CodePen" /> </picture> </a> <a href="https://discord.com/users/rajatkhurana08" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.stackoverflow.com/users/rajat-khurana" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" title="Stack Overflow" /> </picture> </a></p>
 
